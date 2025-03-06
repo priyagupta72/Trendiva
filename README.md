@@ -1,4 +1,4 @@
-# **Trendiva - MERN e-Commerce Platform**  
+![Screenshot (57)](https://github.com/user-attachments/assets/a0c9a69f-3d08-4145-a322-25f4b2dce1cd)# **Trendiva - MERN e-Commerce Platform**  
 
 Trendiva is a **modern eCommerce web application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. It provides a seamless online shopping experience with features like product listings, user authentication, cart management, and secure payments.  
 
@@ -116,4 +116,11 @@ You can deploy your application on **Vercel, Netlify (Frontend), and Render, Her
 - **JWT Authentication** – Secure user authentication system.  
 
 
+ ## **Screenshot**
+![Uploading Screenshot (57).png…]()
+
+
+
+
+ 
  
